@@ -1,2 +1,10 @@
 // classes 2 git class at 10:40
-//guest lecture Radhika
+//guest lecture Radhik
+
+
+//file
+// git add
+// git commot
+git pull
+//git push
+a
